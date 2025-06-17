@@ -131,10 +131,7 @@ Contains logic to:
 
 ## 🌟 Author
 
-```
-Piyush
-Web Developer | Tech Enthusiast
-```
+**Piyush** - Web Developer | Tech Enthusiast
 
 ---
 
