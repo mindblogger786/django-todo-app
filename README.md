@@ -132,7 +132,7 @@ Contains logic to:
 ## 🌟 Author
 
 ```
-**Piyush**
+Piyush
 Web Developer | Tech Enthusiast
 ```
 
