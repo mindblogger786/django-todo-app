@@ -131,8 +131,10 @@ Contains logic to:
 
 ## 🌟 Author
 
+```
 **Piyush**
 Web Developer | Tech Enthusiast
+```
 
 ---
 
